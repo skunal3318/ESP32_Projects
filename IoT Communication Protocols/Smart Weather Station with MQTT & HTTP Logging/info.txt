@@ -1,0 +1,33 @@
+# Concepts Used ::
+- IOT & Embedded System ::
+  ESP32 Microcontroller 
+  DHT11 Sensor Integration
+  GPIO Handling
+  Pull-Up Resistor Usage 
+
+- Networking & Communication ::
+  Wi-Fi Networking 
+  MQTT Protocol
+  HTTP Requests(Rest API)
+
+- Cloud & Dashboard Integration ::
+  ThingSpeak Dashboard 
+  Node-RED Dashboard 
+
+- Programming & Software::
+  C++/Arduino Programming 
+  String to Numeric Conversion
+  MQTT Error Handling 
+
+- Data Handling & Visualization ::
+  Real Time Data Streaming 
+  Dual Protocol Logging 
+  Dashboard Visualization
+
+  
+# Components Used ::
+ 1. Breadboard 
+ 2. Jumper Wires 
+ 3. ESP32 Development Board
+ 4. DHT11 Temperature and Humidity Sensor
+ 5. 10K Ohm Resistor
